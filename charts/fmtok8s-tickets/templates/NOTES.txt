@@ -1,0 +1,5 @@
+Cloud-Native Conference Platform Tickets Services V1
+
+Chart Deployed: {{ .Chart.Name }} - {{ .Chart.Version }}
+Release Name: {{ .Release.Name }}
+
